@@ -1,4 +1,5 @@
 data/
 env/
-.DS_Store
+.DS_Storei
+*.out
 
